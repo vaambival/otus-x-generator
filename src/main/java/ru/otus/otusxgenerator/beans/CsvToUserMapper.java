@@ -1,7 +1,6 @@
 package ru.otus.otusxgenerator.beans;
 
 import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.commons.lang3.StringUtils;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
 import ru.otus.otusxgenerator.dto.UserRegistrationRequest;
